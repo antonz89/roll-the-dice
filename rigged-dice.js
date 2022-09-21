@@ -13,7 +13,7 @@ if (input >= 1 && input <= 6){
 } else {
     console.log('Error. Enter a whole number 1 - 6');
 }
-//------------------------------------------------------------
+//------------------------------------------------------------HELO
 if ((input===1 && output===1)||(input===1 && output===7)) {
     x = 1;
 } else if ((input===2 && output===2)||(input===2 && output===7)){
